@@ -38,9 +38,7 @@ Developed an interactive dashboard analyzing 187M+ passenger records to evaluate
 
 ## **Dataset Overview**
 
-The dataset used in this project consists of large-scale airline operational data, capturing detailed information on flights, passengers, seat
-
-capacity, routes, and carrier performance. It is designed to support comprehensive analysis of airline efficiency, load factors, and travel trends.
+The dataset used in this project consists of large-scale airline operational data, capturing detailed information on flights, passengers, seat capacity, routes, and carrier performance. It is designed to support comprehensive analysis of airline efficiency, load factors, and travel trends.
 
 **Data Components**
 
@@ -76,13 +74,13 @@ Covers monthly, quarterly, and yearly trends for analyzing seasonality and deman
 
 ## **Data Relationships**
 
-The dataset follows a structured analytical model where:
+🔹The dataset follows a structured analytical model where:
 
-Flights are linked with passengers and seat capacity
+🔹Flights are linked with passengers and seat capacity
 
-Carriers are associated with routes and performance metrics
+🔹Carriers are associated with routes and performance metrics
 
-Time dimensions enable trend and seasonal analysis
+🔹Time dimensions enable trend and seasonal analysis
 
 ## **Usage in Project**
 
@@ -180,8 +178,5 @@ This dataset is used to:
 ## **Conclusion**
 
 This project demonstrates how data analytics can be leveraged to optimize airline operations and improve performance. By analyzing 187M+ passenger 
-
-records, key insights were derived on load factor trends, carrier efficiency, and route performance. The interactive dashboard provides 
-
-comprehensive view of airline operations, enabling data-driven decision-making to enhance seat utilization and operational efficiency.
+records, key insights were derived on load factor trends, carrier efficiency, and route performance. The interactive dashboard provides comprehensive view of airline operations, enabling data-driven decision-making to enhance seat utilization and operational efficiency.
 
